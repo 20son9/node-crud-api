@@ -1,4 +1,4 @@
-const fs = require('fs');
+const API_URL = 'https://node-crud-api-fuoh.onrender.com/api/products.com/api/products';
 const mysql = require('mysql2');
 require('dotenv').config();
 
